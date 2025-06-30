@@ -1,0 +1,10 @@
+[
+  {
+    "Constant": false,
+    "Name": "G_variable",
+    "TypeFullyQualifiedName": "UiPath.Core.Activities.LogLevel, UiPath.System.Activities, Version=24.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": null,
+    "IsLiteral": false
+  }
+]
